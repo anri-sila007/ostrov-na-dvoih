@@ -1,0 +1,20 @@
+{
+  "name": "Остров на двоих",
+  "short_name": "Остров",
+  "description": "Уютная игра для двоих: после кораблекрушения стройте дом на острове вместе — каждый со своего телефона.",
+  "lang": "ru",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "any",
+  "background_color": "#3f95c9",
+  "theme_color": "#3f95c9",
+  "categories": ["games"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
